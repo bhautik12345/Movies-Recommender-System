@@ -30,6 +30,6 @@ This is a simple and intuitive movie recommender system built using **Python**, 
 3. Run the app:
    ```bash
    streamlit run app.py
-```
+   ```
 
 
